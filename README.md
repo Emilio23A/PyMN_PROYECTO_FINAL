@@ -22,5 +22,4 @@ ejecuta una y otra vez hasta que se alcanza cierto objetivo o condición. Los ci
 importantes para cálculos que requieren pasos repetitivos y el procesamiento constante de
 varias entradas de datos. En esta práctica se aprenderá a implementar ciclos en C++ así como
 escribir programas que implementen estructuras repetitivas en el mundo real.[[Estructuras repetitivas parte 1.]](https://github.com/Emilio23A/Proyecto_de_PyMN/blob/main/practica%203%20ejercicio%204.2%20(1).c)
-
-4.[[Estructuras repetitivas parte 2.]](https://github.com/Emilio23A/Proyecto_de_PyMN/commit/a6bddb7735338abcca73ae2c3a3e037625470632)
+3.1[[Estructuras repetitivas parte 2.]](https://github.com/Emilio23A/Proyecto_de_PyMN/commit/a6bddb7735338abcca73ae2c3a3e037625470632)
