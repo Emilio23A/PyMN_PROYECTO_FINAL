@@ -33,7 +33,8 @@ contenedor que contiene un número de variables de un solo tipo. La longitud de 
 debe ser establecida previamente al declararlo variable. Después de haber sido creado la
 longitud es fija. [[Funciones, arreglos y matrices. Ejr. 4.1 y 4.3]](https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.1%20Y%204.3.c)[[Funciones, arreglos y matrices. Ejr. 4.2]](https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.2%20.c)[[Funciones, arreglos y matrices. Ejr. 4.4]](https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.4.c)[[Funciones, arreglos y matrices. Ejr. 4.5]](https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.5.c)[[Funciones, arreglos y matrices. Ejr. 4.6]](https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.6.c)[[Funciones, arreglos y matrices. Ejr. 4.7]](https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.7.c)[[Funciones, arreglos y matrices. Ejr. 4.8]](https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.8.c)
 
-5.Método de bisección
+5.Método de bisección.
+
 El método consiste en obtener una mejor aproximación de la raíz de una función f(x) a partir
 de un intervalo inicial [a,b]. En este intervalo existe un cambio de signo en la función, es decir
 f(a)f(b) < 0.
