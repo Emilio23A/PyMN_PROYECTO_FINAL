@@ -23,3 +23,12 @@ importantes para cálculos que requieren pasos repetitivos y el procesamiento co
 varias entradas de datos. En esta práctica se aprenderá a implementar ciclos en C++ así como
 escribir programas que implementen estructuras repetitivas en el mundo real.[[Estructuras repetitivas parte 1.]](https://github.com/Emilio23A/Proyecto_de_PyMN/blob/main/practica%203%20ejercicio%204.2%20(1).c)
 3.1[[Estructuras repetitivas parte 2.]](https://github.com/Emilio23A/Proyecto_de_PyMN/commit/a6bddb7735338abcca73ae2c3a3e037625470632)
+
+4.El uso de arreglos y matrices facilita en la programación diversas rutinas y operaciones. Una
+variedad de problemas puede ser resueltos mediante el uso de arreglos y matrices.
+En general, un arreglo unidimensional es una colección de elementos, ya sean numéricos o
+caracteres. Para efectos de este laboratorio generaremos vectores, los cuales son colecciones
+unidimensionales de datos numéricos (enteros, flotantes, dobles, etc). Se trata de un objeto
+contenedor que contiene un número de variables de un solo tipo. La longitud de un arreglo
+debe ser establecida previamente al declararlo variable. Después de haber sido creado la
+longitud es fija. [[Funciones, arreglos y matrices.]](https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.1%20Y%204.3.c)(https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.2%20.c)(https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.4.c)(https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.5.c)(https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.6.c)(https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.7.c)(https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%204.%204.8.c)
