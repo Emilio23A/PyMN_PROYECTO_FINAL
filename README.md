@@ -38,4 +38,4 @@ longitud es fija. [[Funciones, arreglos y matrices. Ejr. 4.1 y 4.3]](https://git
 El método consiste en obtener una mejor aproximación de la raíz de una función f(x) a partir
 de un intervalo inicial [a,b]. En este intervalo existe un cambio de signo en la función, es decir
 f(a)f(b) < 0.
-El punto medio es la nueva aproximación a la raíz
+El punto medio es la nueva aproximación a la raíz [[Métodos cerrados: de la bisección y de la falsa posición.]](https://github.com/Emilio23A/PyMN_PROYECTO_FINAL/blob/main/PRACTICA%205.c)
